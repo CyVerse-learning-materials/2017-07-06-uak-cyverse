@@ -1,5 +1,7 @@
 # Template CyVerse Quickstart Repo
 
+[![Join the chat at https://gitter.im/bioinfokit/community](https://badges.gitter.im/bioinfokit/community.svg)](https://gitter.im/bioinfokit/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 You should import this repo to build CyVerse Quickstarts
 
 ## How CyVerse Learning Center documentation is built
